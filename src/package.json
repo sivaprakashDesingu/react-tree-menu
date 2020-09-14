@@ -5,7 +5,7 @@
     "author": "kv kishore",
     "private": true,
     "dependencies": {
-        "axios": "^0.17.1",
+        "axios": "^0.20.0",
         "babel-polyfill": "^6.26.0",
         "bootstrap": "^4.0.0-alpha.6",
         "chart.js": "^2.7.1",
