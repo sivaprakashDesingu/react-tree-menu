@@ -1,0 +1,6 @@
+{
+    "env": "dev",
+    "APP_ID": "Propeluss",
+    "api_url": "http://dev.propeluss.com/api",
+    "mixpanel": "51b6ac9c7fe54d3d896d573571f25ec3"
+}

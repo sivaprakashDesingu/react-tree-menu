@@ -1,0 +1,15 @@
+{
+  "env": "development",
+  "APP_ID": "Propeluss",
+  "mobile": {
+    "host": "0.0.0.0"
+  },
+  "web": {
+    "host": "0.0.0.0",
+    "corporate": 8000,
+    "startup": 8001,
+    "investor": 8002
+  },
+  "api_url": "http://dev.propeluss.com/api",
+  "mixpanel": "51b6ac9c7fe54d3d896d573571f25ec3"
+}

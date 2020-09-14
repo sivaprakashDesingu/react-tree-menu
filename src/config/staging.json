@@ -1,0 +1,6 @@
+{
+    "env": "staging",
+    "APP_ID": "Propeluss",
+    "api_url": "http://staging.propeluss.com/api",
+    "mixpanel": "51b6ac9c7fe54d3d896d573571f25ec3"
+}

@@ -1,0 +1,5 @@
+{
+  "env": "qa",
+  "APP_ID": "Propeluss",
+  "api_url": "http://dev.propeluss.com/api"
+}

@@ -1,0 +1,6 @@
+{
+  "env": "production",
+  "APP_ID": "Propeluss",
+  "api_url": "https://prod.propeluss.com/api",
+  "mixpanel": "01712db579e652b725fc738d3ebd6dca"
+}
